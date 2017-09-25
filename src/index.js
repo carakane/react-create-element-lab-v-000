@@ -9,7 +9,7 @@ var meInReact = React.createElement('div', {className: 'me'},
     [
       React.createElement('li', {}, 'JavaScript'),
       React.createElement('li', {}, 'React'),
-      React.createElement('li', {}, 'Movies')
+      React.createElement('li', {}, 'Movies'),
       React.createElement('li', {}, 'Ice Cream')
     ]
   )
